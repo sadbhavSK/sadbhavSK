@@ -26,7 +26,6 @@ I'm an **Aspiring MERN Developer & Web Developer (B.E CSE)** who enjoys building
 | **Farm Management System** | Java + MySQL based DBMS system | — | — |
 | **Dog Breed Classification** | CNN-based dog breed prediction mini-project | — | — |
 
-> I pin the projects that best reflect my core skills and learning journey.
 
 ---
 
