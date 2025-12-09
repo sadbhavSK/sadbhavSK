@@ -26,7 +26,7 @@ I'm an **Aspiring MERN Developer & Web Developer (B.E CSE)** who enjoys building
 | **Niche Community Platform** | React + Firebase based real-time community platform | https://github.com/sadbhavSK/Niche-Community-Platform | https://niche-community-platform.netlify.app/ |
 | **Sentiment Analysis of Court Case Evidence** | Sentiment classification using Python + Flask | https://github.com/sadbhavSK/Sentiment_analysis_using_deep_learing | — |
 | **Farm Management System** | Java + MySQL based DBMS system | — | — |
-| **Dog Breed Classification** | CNN-based dog breed prediction mini-project | — | — |
+| **Dog Breed Classification** | CNN-based dog breed prediction mini-project | https://github.com/sadbhavSK/Dog-Breed-Classification | — |
 
 
 ---
