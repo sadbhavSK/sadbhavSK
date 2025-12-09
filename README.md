@@ -9,32 +9,12 @@ I'm an **Aspiring MERN Developer & Web Developer (B.E CSE)** who enjoys building
 
 ---
 
-## 🧰 Tech Stack
-
-**Programming Languages:**  
-Java  
-C  
-JavaScript  
-
-**Frontend:**  
-HTML  
-CSS  
-JavaScript (ES6)  
-React (Vite)  
-Responsive Design  
-
-**Backend:**  
-Node.js  
-Express.js  
-
-**Databases:**  
-MongoDB  
-
-**Tools:**  
-VS Code  
-Git  
-GitHub  
-Chrome DevTools  
+## 🧰 Tech Stack  
+**Programming Languages:** Java • C • JavaScript <br>
+**Frontend:** HTML • CSS • JavaScript (ES6) • React (Vite) • Responsive Design <br>
+**Backend:** Node.js • Express.js <br>
+**Databases:** MongoDB • MySQL <br>
+**Tools:** VS Code • Git • GitHub • Chrome DevTools
  
 
 ---
