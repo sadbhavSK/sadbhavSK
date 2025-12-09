@@ -2,8 +2,8 @@
 
 I'm an **Aspiring MERN Developer & Web Developer (B.E CSE)** who enjoys building clean and responsive web applications using React, JavaScript, and modern web tools.
 
-- 🔭 Currently working on: Frontend & basic full-stack projects
-- 🌱 Learning: React, Firebase, Java + MySQL
+- 🔭 Currently working on: MERN full-stack projects
+- 🌱 Learning: React, Firebase, Node.js, Express, MongoDB
 - 💡 I like: Turning ideas into working projects
 - 🎯 Career Goal: Join a team as a Web Developer / Software Engineer and grow through real-world projects
 
@@ -11,8 +11,10 @@ I'm an **Aspiring MERN Developer & Web Developer (B.E CSE)** who enjoys building
 
 ## 🧰 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript (ES6), React (Vite), Responsive Design  
-**Backend & Databases:** Java (Core + JDBC), MySQL, Firebase (Auth & Firestore – basic)  
+**Programming Languages:** Java • C • JavaScript
+**Frontend:** HTML • CSS • JavaScript (ES6) • React (Vite) • Responsive Design  
+**Backend:** Node.js • Express.js
+**Databases:** Node.js • Express.js
 **Tools:** VS Code, Git, GitHub, Chrome DevTools  
 
 ---
